@@ -12,35 +12,22 @@ class Solution:
     	while(x<= self.center):
     		y = self.center%1
     		while(y<=self.center):
-    			startVal = self.GetMatricsValue(matrix,x,y)
+    			startVal = (matrix[int(x + self.center)][int(y + self.center)])
     			start_x = x
     			start_y = y
-    			print(x)
-    			print(y)
-    			for x in range(1,5):
+    			for i in range(1,5):
     				next_x = start_y
     				next_y = -start_x
-    				next_val = self.GetMatricsValue(matrix,next_x,next_y)
-    				self.SetMatricsValue(matrix,start_x,start_y,next_val)
-    				self.SetMatricsValue(matrix,next_x,next_y, startVal)
+    				next_val = matrix[int(next_x + self.center)][int(next_y + self.center)] 
+    				matrix[int(next_x + self.center)][int(next_y + self.center)] = startVal
     				startVal = next_val
     				start_x = next_x
     				start_y = next_y
     			y +=1
     		x+=1
-    		print(x)
-    		print(y)
     	return(matrix)
 
-
-    def GetMatricsValue(self, matrix, x, y):
-    	print('getValue: '+x)
-    	print('getValue: '+y)
-    	return(matrix[int(x + self.center)][int(y + self.center)])
-    def SetMatricsValue(self, matrix, x, y,val):
-    	matrix[int(x + self.center)][int(y + self.center)] = val
-
 ss = Solution()
-
-result = ss.rotate([[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]])
-print(result)
+a= [[1,2],[3,4]] 
+result = ss.rotate(a)
+print(a)

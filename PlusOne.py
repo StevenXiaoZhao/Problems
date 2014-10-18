@@ -5,8 +5,8 @@ class Solution:
     	digits_len = len(digits)
     	is_plus = False
     	for x in range(digits_len-1, -1,-1):
-        	if(digits[x]==0):
-        		digits[x] = 1
+        	if(digits[x]< 9):
+        		digits[x] += 1
         		is_plus = True
         		break
         	else:
@@ -19,6 +19,6 @@ class Solution:
     	return result
 
 ss= Solution()
-result = ss.plusOne([1,0,1,1,1,1])
+result = ss.plusOne([9,9,9])
 print(result)
         	
