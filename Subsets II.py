@@ -35,7 +35,7 @@ class Solution:
 
             return(result)
 ss = Solution()
-s = [1,2,2,2]
+s = [5,5,5,5,5,5]
 result = ss.subsetsWithDup(s)
 print(result)        
         
