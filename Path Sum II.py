@@ -24,7 +24,7 @@ class Solution:
             if(root.left == None and root.right == None and leftVal == 0):    
                 return([prev])
             else:
-                left = self.PathSumWithPrev(root.left,leftVal,prev)
+                left = self.PathSumWithPrev(root.left,leftVal,list(prev))
                 right = self.PathSumWithPrev(root.right,leftVal, list(prev))
                 result = []
                 if(left != [[]]):
