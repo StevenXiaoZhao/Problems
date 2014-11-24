@@ -12,30 +12,36 @@ class Solution:
         if(root == None):
             return(True)
         else:
-            return(self.isValidBSTFromRoot(root,root.val))
-    def isValidBSTFromRoot(self, root, rootParentVal):
+            [result, min_val,max_val] = self.isValidBSTFromRoot(root)
+            return(result)
+    def isValidBSTFromRoot(self, root):
             leftSub = root.left
             rightSub = root.right
             leftResult = True
             rightResult = True
+            left_min = root.val
+            right_max = root.val
             if(leftSub !=None):
                 if(root.val <= leftSub.val):
-                    return(False)
+                    return([False,None,None])
                 else:
-                    leftResult = self.isValidBSTFromRoot(leftSub,root.val)
+                    [leftResult,left_min,left_max] = self.isValidBSTFromRoot(leftSub)
+                    if(leftResult == False or left_max >= root.val):
+                        return([False,None,None])
             if(rightSub != None):
-                if(root.val >= rightSub.val or rightSub.val>=rootParentVal):
-                    return(False)
+                if(root.val >= rightSub.val):
+                    return([False,None,None])
                 else:
-                    rightResult = self.isValidBSTFromRoot(rightSub,root.val)
+                    [rightResult,right_min,right_max] = self.isValidBSTFromRoot(rightSub)
+                    if(rightResult == False or right_min <= root.val):
+                        return([False,None,None])
             if(leftResult and rightResult):
-                return(True)
-            return(False)
-a= TreeNode(2)
+                return([True, left_min, right_max])
+a= TreeNode(-1)
 a.left = None
 a.right = None
 
-b= TreeNode(3)
+b= TreeNode(0)
 b.left = a
 b.right = None
 
@@ -48,6 +54,6 @@ d.left = c
 d.right = b
 
 ss = Solution()
-orderList = ss.isValidBST(d)
+orderList = ss.isValidBST(b)
 print(orderList)
         

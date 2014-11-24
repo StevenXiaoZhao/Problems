@@ -2,15 +2,30 @@ class Solution:
     # @param an integer
     # @return a list of string
     def generateParenthesis(self, n):
-        
+        result = self.generateParenthesisArray(n,n)
         return(result)
     
-    def generateParenthesisArray(self, n):
-        if(n == 1):
-            return([['(',')']])
+    def generateParenthesisArray(self, left, right):
+        if(left == 0):
+            return([')'*right])
         else:
-            subParenthesis = self.generateParenthesisArray(n-1)
-            for Parenthesis in subsubParenthesis:
+            result = []
+            curr = ''
+            if(left == right): # only left can generated
+                curr='('
+                subSeq = self.generateParenthesisArray(left-1,right)
+                for sub in subSeq:
+                    result.append(curr+sub)
+            else: #must be left > right, two choice
+                curr = '('
+                subSeq = self.generateParenthesisArray(left-1,right)
+                for sub in subSeq:
+                    result.append(curr+sub)
+                curr = ')'
+                subSeq = self.generateParenthesisArray(left,right-1)
+                for sub in subSeq:
+                    result.append(curr+sub)
+            return(result)
                 
     def ToString(self, strArray):
         result =''
