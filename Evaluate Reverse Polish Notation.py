@@ -22,9 +22,9 @@ class Solution:
             elif x == '/':
                 num2 = stack.pop()
                 num1 = stack.pop()
-                result = num1//num2
-                if(num1%num2<0):
-                    result +=1
+                result = abs(num1)//abs(num2)
+                if(num1*num2<0):
+                    result = -result
                 stack.append(result)
             else:
                 stack.append(int(x))

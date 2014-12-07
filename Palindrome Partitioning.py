@@ -3,18 +3,37 @@ class Solution:
     # @return a list of lists of string
     def partition(self, s):
         s_len = len(s)
-        pair = []
-        for i in range(s_len):
-            pair.append([False]*s_len)
-            pair[i][i] = True
-        for i in range(s_len - 1, -1, -1):
-            for j in range(i+1, s_len):
-                if(j-i == 1):
-                    if(s[i] == s[j]):
-                        pair[i][j] = True
-                else:
-                    if(s[i] == s[j] and pair[i+1][j-1] == True):
-                        pair[i][j] = True
-        subStrs = {}
-        for i in range(s_len):
+        if s == '':
+            return([[]])
+        elif s_len == 1:
+            return([[s]])
+        result = []
+        for i in range(1, s_len+1):
+            curr = s[0:i]
+            if(self.isPalindrome(curr) == False):
+                continue
+            if(i == s_len):
+                result.append([curr]) 
+                break
+            subs = self.partition(s[i:s_len])
+            for sub in subs:
+                single = [curr]
+                single.extend(sub)
+                result.append(single)
+        if result == []:
+            result = [[]]
+        return(result)
+    def isPalindrome(self, string):
+        string_len = len(string)
+        s = 0
+        e = string_len -1
+        while(s<e):
+            if(string[s] != string[e]):
+                return(False)
+            s +=1
+            e -=1
+        return(True)
+ss = Solution()
+result = ss.partition('aab')
+print(result)
             
