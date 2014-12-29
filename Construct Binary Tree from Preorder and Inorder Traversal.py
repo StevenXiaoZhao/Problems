@@ -1,4 +1,3 @@
-# Definition for a  binary tree node
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -9,48 +8,46 @@ class TreeNode:
             return
         else:
             print(self.val)
-            if(self.left != None):
+            if self.left != None:
                 self.left.printTree()
-            if(self.right != None):
-                self.right.printTree()    
-
+            if self.right !=None:
+                self.right.printTree()
 class Solution:
     # @param inorder, a list of integers
-    # @param postorder, a list of integers
+    # @param preorder, a list of integers
     # @return a tree node
-    def buildTree(self, inorder, postorder):
+    def buildTree(self, preorder, inorder):
         if(inorder == None or inorder == []):
             return None
         elif(len(inorder) == 1):
             return TreeNode(inorder[0])
         else:
-            return (self.buildSubTree(inorder, 0, len(inorder)-1, postorder, 0, len(postorder)-1))
+            return (self.buildSubTree(preorder, 0, len(preorder)-1, inorder, 0, len(inorder)-1))
 
-    def buildSubTree(self, inorder, in_start, in_end, postorder, post_start, post_end):
-        if post_end < post_start:
+    def buildSubTree(self, preorder, pre_start, pre_end, inorder, in_start, in_end):
+        if pre_end < pre_start:
             return(None)
-        root = TreeNode(postorder[post_end])
-        if post_end == post_start:
+        root = TreeNode(preorder[pre_start])
+        if pre_end == pre_start:
             return(root)
         mid = -1
         for i in range(in_start, in_end +1):
-            if inorder[i] == postorder[post_end]:
+            if inorder[i] == preorder[pre_start]:
                 mid = i
                 break
         if mid == -1:
             print('error list')
             return(None)
         leftLen = mid - in_start
-        leftRoot = self.buildSubTree(inorder, in_start, mid-1, postorder, post_start, post_start + leftLen -1)
-        rightRoot = self.buildSubTree(inorder, mid+1 , in_end, postorder, post_start + leftLen, post_end -1)
+        leftRoot = self.buildSubTree(preorder, pre_start + 1, pre_start + leftLen, inorder, in_start, mid-1)
+        rightRoot = self.buildSubTree(preorder, pre_start + leftLen + 1, pre_end, inorder, mid+1 , in_end)
         root.left = leftRoot
         root.right = rightRoot
         return(root)
         
         
 ss = Solution()
-testData1 = [4,2,5,1,3]
-testData2 = [4,5,2,3,1]
+testData1 = [1,2,4,5,3]
+testData2 = [4,2,5,1,3]
 result = ss.buildTree(testData1,testData2) 
-result.printTree()            
-        
+result.printTree()
