@@ -1,43 +1,61 @@
-# Definition for a  binary tree node
+# Definition for a binary tree node.
+from typing import List
+
+
 class TreeNode:
-     def __init__(self, x):
-         self.val = x
-         self.left = None
-         self.right = None
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
 
-class Solution:
-# @param root, a tree node
-# @return an integer
-    def maxDepth(self, root):
-        if root==None:
-            return 0
-        else:
-            if root.left!=None:
-                lmax=self.maxDepth(root.left)
-            else:
-                lmax=0
-            if root.right!=None:
-                rmax=self.maxDepth(root.right)
-            else:
-                rmax=0
-            return max(lmax, rmax)+1
 
-a= TreeNode('a')
-a.left = None
-a.right = None
+def array2Tree(arr: List[int]) -> TreeNode:
+    children_index = 1
+    if arr is None or len(arr) == 0:
+        return None
+    if len(arr) == 1:
+        return TreeNode(arr[0])
 
-b= TreeNode('b')
-b.left = None
-b.right = a
+    root = TreeNode(arr[0])
+    queue = []
+    queue.append(root)
+    while children_index < len(arr):
+        root_node = queue[0]
+        queue.remove(root_node)
+        if arr[children_index] is not None:
+            node = TreeNode(arr[children_index])
+            root_node.left = node
+            queue.append(node)
 
-c= TreeNode('c')
-c.left = None
-c.right = None
+        children_index += 1
+        if children_index < len(arr) and arr[children_index] is not None:
+            node = TreeNode(arr[children_index])
+            root_node.right = node
+            queue.append(node)
 
-d= TreeNode('d')
-d.left = c
-d.right = b
+        children_index += 1
 
-ss = Solution()
-length = ss.maxDepth(d)
-print(length)
+    return root
+
+
+def tree2List(t: TreeNode) -> List[int]:
+    if t is None:
+        return []
+    result = []
+    queue = [t]
+    while len(queue) > 0:
+        root =queue.pop(0)
+        if root is None:
+            result.append(None)
+            continue
+
+        result.append(root.val)
+        if root.left is not None:
+            queue.append(root.left)
+
+        if root.right is not None:
+            if root.left is None:
+                queue.append(None)
+            queue.append(root.right)
+
+    return result

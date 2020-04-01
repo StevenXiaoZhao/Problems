@@ -2,309 +2,520 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="828a5a33-0270-494d-b370-5deaad5db772" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3Sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dungeon Game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Largest Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Palindromic Substring.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maximum Gap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Multiply Strings.py" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/3Sum Closest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/4sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Add Binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Add Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BalancedBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BestTimetoBuyandSellStockII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Binary Tree Zigzag Level Order Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BinaryTreeInorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BinaryTreeLevelOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BinaryTreeLevelOrderTraversalII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BinaryTreePostorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/BinaryTreePreorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/ClimbingStairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Clone Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Combination Sum II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Combination Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Compare Version Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/ContainerWithMostWater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Convert Sorted List to Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/ConvertSortedArrayToBinarySearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Copy List with Random Pointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Count and Say.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Decode Ways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Distinct Subsequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Divide Two Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Dungeon Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Evaluate Reverse Polish Notation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Excel Sheet Column Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Excel Sheet Column Title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Factorial Trailing Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Find Minimum in Rotated Sorted Array II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Find Minimum in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Find Peak Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/First Missing Positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Flatten Binary Tree to Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Fraction to Recurring Decima.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Gas Station.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Generate Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/GrayCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Implement strStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Insertion Sort List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/IntegertoRoman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Intersection of Two Linked Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Jump Game II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Jump Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Largest Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Length of Last Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/LinkedListCycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/LinkedListCycleII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Longest Common Prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Longest Consecutive Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Majority Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Maximum Gap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Maximum Product Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/MaximumSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/MergeSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/MergeTwoSortedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Min Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Minimum Depth of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/MinimumPathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Multiply Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Next Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Palindrome Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Palindrome Partitioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Partition List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/PascalTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/PascalTriangleII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Path Sum II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/PathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Permutation Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Permutations II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/PlusOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/PopulatingNextRightPointersinEachNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/PopulatingNextRightPointersinEachNodeII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Pow(x, n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Remove Duplicates from Sorted List II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Remove Duplicates from Sorted List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/RemoveDuplicatesfromSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/RemoveDuplicatesfromSortedArrayII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/RemoveElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/RemoveNthNodeFromEndofList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Reorder List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Restore IP Addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Reverse Linked List II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Reverse Nodes in k-Group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Reverse Words in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/ReverseInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/RomanToInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Rotate List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/RotateImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SameTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Scramble String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Search for a Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Search in Rotated Sorted Array II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Search in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SearchInsertPosition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Searcha2DMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SetMatrixZeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Simplify Path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SingleNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SingleNumberII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Sort List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SortColors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SortNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Spiral Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SpiralMatrixII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Sqrt(x).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/String to Integer (atoi).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Subsets II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Surrounded Regions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SwapNodesinPairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/SymmetricTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Trapping Rain Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/TreeNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Two Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Unique Binary Search Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Unique Paths II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/UniquePaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Valid Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Valid Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Valid Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Validate Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Word Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Word Ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/Word Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/WriteToFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/ZigZag Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/classSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/deleteDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/hammingWeight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/isPowerOfThree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/isPowerOfTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/untitled-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/A-B-Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/add-binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/add-digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/add-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/add-to-array-form-of-integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/add-two-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/arranging-coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/array-partition-i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/assign-cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/available-captures-for-rook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/average-of-levels-in-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/balanced-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/base-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/baseball-game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/best-time-to-buy-and-sell-stock-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/best-time-to-buy-and-sell-stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/binary-tree-level-order-traversal-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/binary-tree-paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/binary-tree-tilt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/binary-watch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/bulls-and-cows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/can-place-flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/climbing-stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/coin-change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/construct-string-from-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/construct-the-rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/contains-duplicate-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/contains-duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/convert-a-number-to-hexadecimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/convert-bst-to-greater-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/convert-sorted-array-to-binary-search-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/count-and-say.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/count-binary-substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/count-negative-numbers-in-a-sorted-matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/count-primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/degree-of-an-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/delete-node-in-a-linked-list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/detect-capital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/diameter-of-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/distribute-candies-to-people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/distribute-candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/dui-lie-de-zui-da-zhi-lcof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/employee-importance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/excel-sheet-column-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/excel-sheet-column-title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/factorial-trailing-zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/fibonacci-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/find-all-numbers-disappeared-in-an-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/find-mode-in-binary-search-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/find-the-difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/first-bad-version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/first-unique-character-in-a-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/fizz-buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/greatest-common-divisor-of-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/guess-number-higher-or-lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/hamming-distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/happy-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/heaters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/house-robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/image-smoother.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/implement-queue-using-stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/implement-stack-using-queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/integer-to-roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/intersection-of-two-arrays-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/intersection-of-two-arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/intersection-of-two-linked-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/invert-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/is-subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/island-perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/isomorphic-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/k-diff-pairs-in-an-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/keyboard-row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/length-of-last-word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/letter-case-permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/license-key-formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/linked-list-cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-common-prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-continuous-increasing-subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-harmonious-subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-increasing-subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-uncommon-subsequence-i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/longest-univalue-path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/lowest-common-ancestor-of-a-binary-search-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/majority-element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/max-area-of-island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/max-consecutive-ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/maximize-distance-to-closest-person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-average-subarray-i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-depth-of-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-depth-of-n-ary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-product-of-three-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/merge-sorted-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/merge-two-binary-trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/merge-two-sorted-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/middle-of-the-linked-list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/min-stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-absolute-difference-in-bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-depth-of-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-increment-to-make-array-unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-index-sum-of-two-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-moves-to-equal-array-elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/missing-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/move-zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/n-ary-tree-postorder-traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/n-ary-tree-preorder-traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/n-repeated-element-in-size-2n-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/next-greater-element-i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/nim-game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/non-decreasing-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/number-complement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/number-of-boomerangs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/number-of-segments-in-a-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/palindrome-linked-list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/palindrome-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/partition-array-into-three-parts-with-equal-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/pascals-triangle-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/pascals-triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/path-sum-iii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/path-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/perfect-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/plus-one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/que-shi-de-shu-zi-lcof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/range-addition-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/range-sum-query-immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/ransom-note.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/relative-ranks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/remove-duplicates-from-sorted-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/remove-duplicates-from-sorted-list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/remove-element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/remove-linked-list-elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/repeated-string-match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/repeated-substring-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reshape-the-matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-linked-list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-string-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-vowels-of-a-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/reverse-words-in-a-string-iii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/robot-return-to-origin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/roman-to-integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/rotate-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/same-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/search-in-a-binary-search-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/search-insert-position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/second-minimum-node-in-a-binary-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/set-mismatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/shortest-unsorted-continuous-subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/single-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/string-compression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/student-attendance-record-i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/subdomain-visit-count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/subtree-of-another-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/sum-of-left-leaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/sum-of-square-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/sum-of-two-integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/surface-area-of-3d-shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/symmetric-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/thirdMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/trim-a-binary-search-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/two-sum-ii-input-array-is-sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/two-sum-iv-input-is-a-bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/two-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/ugly-number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/valid-anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/valid-palindrome-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/valid-palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/valid-parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/valid-perfect-square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/word-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/zui-xiao-de-kge-shu-lcof.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Sum Closest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add Binary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add Two Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BalancedBinaryTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeInorderTraversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversalII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreePostorderTraversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreePreorderTraversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClimbingStairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clone Graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combination Sum II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combination Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combinations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compare Version Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContainerWithMostWater.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert Sorted List to Binary Search Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConvertSortedArrayToBinarySearchTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copy List with Random Pointer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Count and Say.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decode Ways.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distinct Subsequences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide Two Integers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dungeon Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluate Reverse Polish Notation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excel Sheet Column Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excel Sheet Column Title.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Trailing Zeroes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find Minimum in Rotated Sorted Array II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find Minimum in Rotated Sorted Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find Peak Element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First Missing Positive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flatten Binary Tree to Linked List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fraction to Recurring Decima.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gas Station.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generate Parentheses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrayCode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implement strStr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Insertion Sort List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegertoRoman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intersection of Two Linked Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jump Game II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jump Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Largest Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Length of Last Word.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter Combinations of a Phone Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListCycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListCycleII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest Common Prefix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest Consecutive Sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest Palindromic Substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Majority Element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maximum Gap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maximum Product Subarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumSubarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeSortedArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Min Stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minimum Depth of Binary Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumPathSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiply Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Next Permutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome Partitioning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partition List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangleII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Path Sum II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PathSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutation Sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlusOne.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pow(x, n).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remove Duplicates from Sorted List II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remove Duplicates from Sorted List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArrayII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveElement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveNthNodeFromEndofList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reorder List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restore IP Addresses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse Linked List II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse Nodes in k-Group.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse Words in a String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rotate List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotateImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SameTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scramble String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search for a Range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search in Rotated Sorted Array II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search in Rotated Sorted Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Searcha2DMatrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SetMatrixZeroes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simplify Path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleNumberII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortColors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spiral Matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpiralMatrixII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt(x).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String to Integer (atoi).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subsets II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subsets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Surrounded Regions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwapNodesinPairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SymmetricTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trapping Rain Water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeNode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unique Binary Search Trees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unique Paths II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniquePaths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Valid Palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Valid Parentheses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Valid Sudoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validate Binary Search Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word Break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word Ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word Search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WriteToFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZigZag Conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classSolution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deleteDuplicates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-2.py" beforeDir="false" />
     </list>
-    <ignored path="Problems.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Problems" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Dungeon Game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dungeon Game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1080">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Maximum Gap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Maximum Gap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2952243" vertical-offset="516" max-vertical-offset="1320">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/3Sum.py" />
-        <option value="$PROJECT_DIR$/Multiply Strings.py" />
-        <option value="$PROJECT_DIR$/4sum.py" />
-        <option value="$PROJECT_DIR$/Longest Palindromic Substring.py" />
-        <option value="$PROJECT_DIR$/Largest Number.py" />
-        <option value="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
-        <option value="$PROJECT_DIR$/Dungeon Game.py" />
-        <option value="$PROJECT_DIR$/Maximum Gap.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1548" />
-    <option name="height" value="842" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectId" id="1XFERY0Je4aeLy6oDqPENoWQ5g6" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="recentsLimit" value="5" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings />
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Maximum Gap">
-    <configuration default="false" name="Longest Palindromic Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Palindromic Substring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Largest Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Largest Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Longest Substring Without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Dungeon Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dungeon Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Maximum Gap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maximum Gap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,64 +535,128 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="minimum-increment-to-make-array-unique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020/simple" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/minimum-increment-to-make-array-unique.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
+    <configuration name="surface-area-of-3d-shapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020/simple" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Problems" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/surface-area-of-3d-shapes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Longest Palindromic Substring" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Largest Number" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Longest Substring Without Repeating Characters" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Dungeon Game" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Maximum Gap" />
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020/simple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020/simple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zui-xiao-de-kge-shu-lcof" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020/simple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/zui-xiao-de-kge-shu-lcof.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.minimum-increment-to-make-array-unique" />
+      <item itemvalue="Python.surface-area-of-3d-shapes" />
+      <item itemvalue="Python.zui-xiao-de-kge-shu-lcof" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Maximum Gap" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Dungeon Game" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Longest Substring Without Repeating Characters" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Largest Number" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Longest Palindromic Substring" />
+      <list>
+        <item itemvalue="Python.yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.surface-area-of-3d-shapes" />
+        <item itemvalue="Python.minimum-increment-to-make-array-unique" />
+        <item itemvalue="Python.zui-xiao-de-kge-shu-lcof" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -390,34 +665,23 @@
       <changelist id="828a5a33-0270-494d-b370-5deaad5db772" name="Default" comment="" />
       <created>1420386829893</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1420386829893</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1548" height="842" extended-state="1" />
-    <editor active="false" />
-    <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22519583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="FLOATING" visible="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="1037" y="129" width="483" height="241" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -427,61 +691,141 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1086" y="497" key="#xdebugger.evaluate" timestamp="1582795497596">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1086" y="497" key="#xdebugger.evaluate/0.23.1920.1057@0.23.1920.1057" timestamp="1582795497596" />
+    <state width="1379" height="273" key="GridCell.Tab.0.bottom" timestamp="1585619461030">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585619461030" />
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1582798155786" />
+    <state width="1379" height="273" key="GridCell.Tab.0.center" timestamp="1585619461030">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585619461030" />
+    <state width="1379" height="196" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1582798155785" />
+    <state width="1379" height="273" key="GridCell.Tab.0.left" timestamp="1585619461029">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585619461029" />
+    <state width="1379" height="196" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1582798155785" />
+    <state width="1379" height="273" key="GridCell.Tab.0.right" timestamp="1585619461030">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585619461030" />
+    <state width="1379" height="196" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1582798155786" />
+    <state width="1379" height="273" key="GridCell.Tab.1.bottom" timestamp="1585619461033">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585619461033" />
+    <state width="1379" height="321" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1582798007771" />
+    <state width="1379" height="273" key="GridCell.Tab.1.center" timestamp="1585619461031">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1585619461031" />
+    <state width="1379" height="321" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1582798007770" />
+    <state width="1379" height="273" key="GridCell.Tab.1.left" timestamp="1585619461031">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1585619461031" />
+    <state width="1379" height="321" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1582798007770" />
+    <state width="1379" height="273" key="GridCell.Tab.1.right" timestamp="1585619461032">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="273" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1585619461032" />
+    <state width="1379" height="321" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1582798007771" />
+    <state x="4" y="29" key="SettingsEditor" timestamp="1583151649057">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="4" y="29" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583151649057" />
+    <state x="469" y="190" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1582614550803" />
+    <state x="473" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1585704871636">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="473" y="323" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585704871636" />
+    <state x="630" y="385" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1582613946630" />
+    <state x="625" y="272" width="670" height="676" key="search.everywhere.popup" timestamp="1582614485171">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="272" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1582614485171" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/3Sum.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="4" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/minimum-moves-to-equal-array-elements.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/3Sum.py</url>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/find-mode-in-binary-search-tree.py</url>
           <line>15</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Multiply Strings.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="6" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/convert-bst-to-greater-tree.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/4sum.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="9" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/merge-two-binary-trees.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Longest Palindromic Substring.py</url>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/count-negative-numbers-in-a-sorted-matrix.py</url>
           <line>10</line>
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Largest Number.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="11" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/image-smoother.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Longest Substring Without Repeating Characters.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="12" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/que-shi-de-shu-zi-lcof.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Dungeon Game.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="13" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/repeated-string-match.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Maximum Gap.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="18" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/partition-array-into-three-parts-with-equal-sum.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/longest-increasing-subsequence.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/max-area-of-island.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/zui-xiao-de-kge-shu-lcof.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/minimum-increment-to-make-array-unique.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020/simple/test.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -491,226 +835,6 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="19" />
     </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dungeon Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dungeon Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1080">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Maximum Gap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dungeon Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiply Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1632">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="936">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1104">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Largest Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1344">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Substring Without Repeating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1560">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiply Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1632">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="936">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1104">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Largest Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1344">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1560">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiply Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1632">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="936">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1104">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1560">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiply Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1104">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Largest Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1344">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest Substring Without Repeating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4090909" vertical-offset="0" max-vertical-offset="816">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21875" vertical-offset="206" max-vertical-offset="1560">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dungeon Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1080">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Maximum Gap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2952243" vertical-offset="516" max-vertical-offset="1320">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
