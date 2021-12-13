@@ -17,11 +17,12 @@ class Solution:
                     nums1[i] = nums2[j]
                     found = True
                     break
-                j+=1
+                j += 1
 
             if not found:
                 nums1[i] = -1
 
         return nums1
 
-print(Solution().nextGreaterElement([2,4],[1,2,3,4]))
+
+print(Solution().nextGreaterElement([2, 4], [1, 2, 3, 4]))
