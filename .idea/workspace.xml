@@ -5,47 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="828a5a33-0270-494d-b370-5deaad5db772" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2020/simple/1-bit-and-2-bit-characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/ConcatenationOfArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/K_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/binary-search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/binary-tree-inorder-traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/binary-tree-postorder-traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/binary-tree-preorder-traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/check-if-numbers-are-ascending-in-a-sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/counting-bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/find-pivot-index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/find-smallest-letter-greater-than-target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/flood-fill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/hop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/implement-strstr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/integer-replacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/jewels-and-stones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/kth-largest-element-in-a-stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/largest-number-at-least-twice-of-others.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/longest-word-in-dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-nesting-depth-of-two-valid-parentheses-strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/maximum-product-of-word-lengths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/min-cost-climbing-stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-number-of-moves-to-seat-everyone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/prime-number-of-set-bits-in-binary-representation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/reconstruct-original-digits-from-english.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/reordered-power-of-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/search-a-2d-matrix-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/self-crossing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/self-dividing-numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/shortest-completing-word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/single-number-iii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/sqrtx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/string-to-integer-atoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/summary-ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/super-pow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/teemo-attacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/to-lower-case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/trapping-rain-water-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/simple/trapping-rain-water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/find-the-town-judge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/minimum-distance-between-bst-nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/simple/rotate-string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/simple/next-greater-element-i.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/simple/next-greater-element-i.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +17,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Problems" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,7 +58,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.prime-number-of-set-bits-in-binary-representation">
+  <component name="RunManager" selected="Python.find-the-town-judge">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +78,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="integer-replacement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find-the-town-judge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/integer-replacement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/simple/find-the-town-judge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,19 +184,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.integer-replacement" />
       <item itemvalue="Python.reconstruct-original-digits-from-english" />
       <item itemvalue="Python.shortest-completing-word" />
       <item itemvalue="Python.super-pow" />
       <item itemvalue="Python.prime-number-of-set-bits-in-binary-representation" />
+      <item itemvalue="Python.find-the-town-judge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.find-the-town-judge" />
         <item itemvalue="Python.prime-number-of-set-bits-in-binary-representation" />
         <item itemvalue="Python.super-pow" />
         <item itemvalue="Python.shortest-completing-word" />
         <item itemvalue="Python.reconstruct-original-digits-from-english" />
-        <item itemvalue="Python.integer-replacement" />
       </list>
     </recent_temporary>
   </component>
